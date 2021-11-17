@@ -20,10 +20,9 @@ Im a developer bot telegram
 - <code><b><a href="https://www.jevrinsupport.ml" style="color: #01ffff;" target="blank_">Jevrin Support</a></b></code>
 - <code><b><a href="https://www.jgchhelpbot.cf" style="color: #01ffff;" target="blank_">Help Bot</a></b></code>
 
-<h2>Languages</h2>
-| Name    | Supported          |
-| ------- | ------------------ |
-| Java    | :white_check_mark: |
-| PHP     | :x:                |
-| Python  | :x:                |
-| Kotlin  | :x:                |
+## Languages
+| Name       | Supported          |
+| ---------  | ------------------ |
+| JavaScript | :white_check_mark: |
+| PHP        | :x: (Next time)    |
+| Python     | :x: (Next time)    |
