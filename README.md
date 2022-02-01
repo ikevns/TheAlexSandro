@@ -24,5 +24,3 @@ Im a developer bot telegram
 | Name       | Supported          |
 | ---------  | ------------------ |
 | JavaScript | :white_check_mark: |
-| PHP        | :x: (Next time)    |
-| Python     | :x: (Next time)    |
